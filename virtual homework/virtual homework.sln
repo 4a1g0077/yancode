@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virtual homework", "virtual homework\virtual homework.vcxproj", "{9CE74068-22B4-48EA-982F-B9269B63C773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE74068-22B4-48EA-982F-B9269B63C773}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CE74068-22B4-48EA-982F-B9269B63C773}.Debug|Win32.Build.0 = Debug|Win32
+		{9CE74068-22B4-48EA-982F-B9269B63C773}.Release|Win32.ActiveCfg = Release|Win32
+		{9CE74068-22B4-48EA-982F-B9269B63C773}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
